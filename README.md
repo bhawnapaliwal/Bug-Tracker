@@ -1,11 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Tech Stack
-React.js
-HTML/CSS
-Express
-MongoDb
-NodeJs
+React.js<br />
+HTML/CSS<br />
+Express<br />
+MongoDb<br />
+NodeJs<br />
 
 MongoDb database at MongoDb Atlas(trial version).
 
@@ -14,7 +14,7 @@ MongoDb database at MongoDb Atlas(trial version).
 
 In the project directory, you can run:
 
-### `npm start`
+```npm start```
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
