@@ -8,7 +8,11 @@ MongoDb<br />
 NodeJs<br />
 
 MongoDb database at MongoDb Atlas (trial version).
+<br />
+```View List of Bugs```
 ![View List of Bugs added screenshot](https://github.com/bhawnapaliwal/Bug-Tracker/blob/master/view_bugs.png)
+<br />
+```Add and Assign Bugs to developers with relevant details```
 ![Add Bug Screenshot](https://github.com/bhawnapaliwal/Bug-Tracker/blob/master/add_bug.png)
 ## To Run or View the Project
 
