@@ -7,9 +7,9 @@ Express<br />
 MongoDb<br />
 NodeJs<br />
 
-MongoDb database at MongoDb Atlas(trial version).
-
-
+MongoDb database at MongoDb Atlas (trial version).
+![View List of Bugs added screenshot](https://github.com/bhawnapaliwal/Bug-Tracker/blob/master/view_bugs.png)
+![Add Bug Screenshot](https://github.com/bhawnapaliwal/Bug-Tracker/blob/master/add_bug.png)
 ## To Run or View the Project
 
 In the project directory, you can run:
