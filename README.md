@@ -7,6 +7,8 @@ Express<br />
 MongoDb<br />
 NodeJs<br />
 
+A medium article written based on my learnings in this project: https://medium.com/@bhawna7374/starting-web-development-with-database-integration-b285133396c6
+
 MongoDb database at MongoDb Atlas (trial version).
 <br />
 ```View List of Bugs```
